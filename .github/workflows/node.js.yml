@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: Real-Estate-LMS-Management
+        working-directory: client
 
     strategy:
       matrix:
